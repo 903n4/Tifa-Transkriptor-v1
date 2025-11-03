@@ -1,0 +1,5 @@
+{
+  "name": "Tifa Transkriptor",
+  "description": "An application that allows users to upload an audio file (up to 20MB) and receive an automatic transcription with speaker identification and timestamps, powered by Google's Gemini AI.",
+  "requestFramePermissions": []
+}
